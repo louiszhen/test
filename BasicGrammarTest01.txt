@@ -1,0 +1,3 @@
+测试语句如下
+(1)git add XXX.txt
+(2)git commit -m "XXX"
